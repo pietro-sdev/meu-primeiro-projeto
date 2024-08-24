@@ -1,5 +1,5 @@
 # Meu primeiro projeto
 
-* Funcionalide 1
-
-* Funcionalide 3
+* Funcionalidade 1
+* Funcionalidade 2
+* Funcionalidade 3
