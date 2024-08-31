@@ -6,4 +6,5 @@
 * Funcionalidade 4
 * Funcionalidade 5
 * Funcionalidade 6
+* Funcionalidade 7
 * Funcionalidade 8
