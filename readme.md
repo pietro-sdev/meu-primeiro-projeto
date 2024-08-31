@@ -9,3 +9,4 @@
 * Funcionalidade 7
 * Funcionalidade 8
 * Funcionalidade 9
+* Funcionalidade 10
